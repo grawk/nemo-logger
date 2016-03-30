@@ -1,6 +1,6 @@
 {
   "name": "nemo-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "selenium-webdriver logging initializer plugin for nemo",
   "main": "index.js",
   "scripts": {
