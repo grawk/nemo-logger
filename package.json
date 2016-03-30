@@ -22,7 +22,7 @@
     "url": "https://github.com/grawk/nemo-logger/issues"
   },
   "peerDependencies": {
-    "nemo": ">=2.0.0"
+    "nemo": "^2.0.0"
   },
   "homepage": "https://github.com/grawk/nemo-logger#readme"
 }
