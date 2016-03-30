@@ -1,0 +1,28 @@
+{
+  "name": "nemo-logger",
+  "version": "1.0.0",
+  "description": "selenium-webdriver logging initializer plugin for nemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grawk/nemo-logger.git"
+  },
+  "keywords": [
+    "nemo",
+    "plugin",
+    "selenium-webdriver",
+    "logging"
+  ],
+  "author": "Matt Edelman <mattedelman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawk/nemo-logger/issues"
+  },
+  "peerDependencies": {
+    "nemo": ">= 2.0.0"
+  },
+  "homepage": "https://github.com/grawk/nemo-logger#readme"
+}
